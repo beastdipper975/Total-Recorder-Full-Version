@@ -240,4 +240,4 @@ This repository serves as the official landing page for Total Recorder. The soft
 **Get the most recent version of Total Recorder today!**
 
 ---
-**Last updated:** 2026-09-15 01:22:35 UTC
+**Last updated:** 2026-09-15 07:25:03 UTC
